@@ -1,4 +1,4 @@
-<h3 align="center">I'm Adnan, a third-year BS/MS student at the University of Florida</h3>
+<h3 align="center">I'm Adnan, an MS student at the University of Florida</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
